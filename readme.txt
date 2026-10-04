@@ -5,8 +5,8 @@ Requires at least: 5.0
 Tested up to: 6.5
 Requires PHP: 7.4
 Stable tag: 1.2.0
-License: GPLv2 or later
-License URI: https://www.gnu.org/licenses/gpl-2.0.html
+License: Apache-2.0
+License URI: https://www.apache.org/licenses/LICENSE-2.0
 
 Lightweight page cache and dashboard accelerator for Elementor-powered WordPress sites. Boosts PageSpeed by 20-30 points with minimal configuration.
 

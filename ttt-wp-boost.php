@@ -7,7 +7,7 @@
  * Version:     1.2.0
  * Author:      Aloysius Luo
  * Author URI:  https://tttworks.com
- * License:     GPLv2 or later
+ * License:     Apache-2.0
  * Text Domain: ttt-wp-boost
  * Domain Path: /languages
  * Requires at least: 5.0
