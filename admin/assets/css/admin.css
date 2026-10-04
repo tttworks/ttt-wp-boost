@@ -1,0 +1,13 @@
+.ttt-boost-wrap { max-width: 720px; margin-top: 20px; }
+.ttt-boost-card { background: #fff; border: 1px solid #ccd0d4; border-radius: 4px; padding: 20px 24px; margin-bottom: 20px; }
+.ttt-boost-card h2 { margin-top: 0; }
+.ttt-boost-stat { display: inline-block; min-width: 120px; margin-right: 30px; margin-bottom: 10px; }
+.ttt-boost-stat-number { font-size: 28px; font-weight: 600; color: #2271b1; }
+.ttt-boost-stat-label { font-size: 13px; color: #646970; }
+.ttt-boost-actions { margin-top: 15px; display: flex; gap: 10px; align-items: center; }
+.ttt-boost-notice { display: none; margin: 15px 0 0 0; }
+.ttt-boost-notice.success { color: #007cba; }
+.ttt-boost-notice.error { color: #d63638; }
+.ttt-boost-clear-btn { background: #d63638; border-color: #d63638; color: #fff; }
+.ttt-boost-clear-btn:hover { background: #b32d2e; border-color: #b32d2e; }
+.ttt-boost-clear-btn:disabled { opacity: 0.6; cursor: not-allowed; }

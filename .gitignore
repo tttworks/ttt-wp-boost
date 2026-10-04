@@ -1,0 +1,24 @@
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*~
+
+# Dependencies / build artifacts
+node_modules/
+vendor/
+*.log
+
+# Local environment
+.env
+.env.local
+wp-config.php
+
+# WordPress runtime (if plugin is tested inside a WP install)
+/wp-admin/
+/wp-includes/
+/wp-content/
+!/wp-content/plugins/ttt-wp-boost/
+!wp-content/plugins/ttt-wp-boost/
